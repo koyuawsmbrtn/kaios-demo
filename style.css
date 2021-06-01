@@ -1,0 +1,47 @@
+body {
+  font-family: sans-serif;
+  color: #fff;
+  background: #223;
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  color: #fff;
+  background: #112;
+  width: 99vw;
+  display: inline-block;
+  text-align: center;
+  margin-top: 24px;
+  border: 1px solid #001;
+}
+
+#content {
+  padding: 20px;
+}
+
+#options {
+  color: #000;
+  background: #fff;
+  border-top: 1px solid #000;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  display: inline-block;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.left {
+  float: left;
+  padding-left: 6px;
+}
+
+.right {
+  float: right;
+  padding-right: 6px;
+}
+
+.disabled {
+  color: #666;
+}
