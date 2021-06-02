@@ -3,7 +3,6 @@
   "name": "kaiOSTest",
   "description": "kaiOS Test app by koyu",
   "launch_path": "/index.html",
-  "fullscreen": "false",
 
   "icons": {
     "56": "/icons/icon-56.png",
